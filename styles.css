@@ -1,0 +1,31 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(192, 211, 228);
+
+}
+
+.landing.image-container {
+    text-align: center;
+}
+
+.recipeslist{
+    list-style-type: none;
+    padding: 10px;
+}
+
+.fpb {
+    background-color: rgb(192, 211, 228);
+    font-size: 18px;
+}
+
+.ingredientslist {
+    list-style-position: inside;
+    list-style-type: disc;
+    padding: 1px;
+}
+
+.steps {
+    list-style-type: upper-roman;
+    padding: 5px;
+}
