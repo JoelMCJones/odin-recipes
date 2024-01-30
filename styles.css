@@ -7,7 +7,6 @@
 }
 
 .index-container {
-    border: 1px solid black;
     width: 700px;
     max-width: 1000px;
     margin: 0 auto;
@@ -70,4 +69,8 @@ img {
 .steps,
 .steps-heading {
     padding-bottom: 20px;
+}
+
+strong {
+    font-size: 19px;
 }
