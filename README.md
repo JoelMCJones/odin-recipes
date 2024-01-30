@@ -1,5 +1,4 @@
 # odin-recipes
 Recipes  Website Project.
 In this project i will be building a basic recipe website. 
-I will not be using CSS to style the website.
-The website will consist of main index page which will link to a few recipes.
+The website will consist of a main index page which will link to a few recipes.
